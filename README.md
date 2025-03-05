@@ -4,7 +4,7 @@ Este é um template de site de portfólio responsivo, desenvolvido para desenvol
 
 ## 🚀 Demonstração
 
-Você pode visualizar o projeto em funcionamento [aqui](#) (adicione o link do deploy quando disponível).
+Você pode visualizar o projeto em funcionamento [aqui](https://fabiofurtili.github.io/portfolio/)
 
 ## ✨ Funcionalidades
 
@@ -78,5 +78,5 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 **Fábio Furtili**  
 - GitHub: [fabiofurtili](https://github.com/fabiofurtili)  
-- LinkedIn: [Fábio Furtili](#)  
+- LinkedIn: [Fábio Furtili](https://www.linkedin.com/in/fabiofurtili)  
 - E-mail: fabiobfurtili@gmail.com 
